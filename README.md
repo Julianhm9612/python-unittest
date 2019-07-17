@@ -1,4 +1,4 @@
-# Unit tests in python with unittest :microscope:
+# A simple example of unit tests in python with unittest :microscope:
 
 ## Requeriments
 
